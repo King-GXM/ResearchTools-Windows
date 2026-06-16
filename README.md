@@ -10,25 +10,25 @@
 
 将截图中的数学公式识别为可编辑 LaTeX，并提供公式渲染预览。适合整理论文公式、复现实验推导和从文献截图中提取公式。
 
-![LaTeX 公式识别](https://github.com/King-GXM/ResearchTools-Windows/releases/download/v1.0.5/latex-ocr.png)
+![LaTeX 公式识别](https://github.com/user-attachments/assets/720adb58-7f7a-4f4f-8d3c-fa1512496296)
 
 ### 数据图表制作
 
 导入 CSV / Excel 数据后快速生成折线图、面积图、柱状图、散点图等科研图表，并同步生成 LaTeX 三线表代码，方便放入论文或报告。
 
-![数据图表制作](https://github.com/King-GXM/ResearchTools-Windows/releases/download/v1.0.5/chart-maker.png)
+![数据图表制作](https://github.com/user-attachments/assets/4ed29270-b89e-4324-918c-eaf055a61388)
 
 ### 论文插图绘制
 
 提供面向科研场景的图形、箭头、流程图、机制图和 LaTeX 公式排版能力，可用于绘制论文插图、模型结构图和实验流程图。
 
-![论文插图绘制](https://github.com/King-GXM/ResearchTools-Windows/releases/download/v1.0.5/paper-illustration.png)
+![论文插图绘制](https://github.com/user-attachments/assets/6dc5b40e-20cb-461c-8a08-6225c7d527c3)
 
 ### AI 翻译
 
 支持论文文本翻译、英文润色与降 AI 率相关写作辅助，适合科研摘要、引言、方法和结果讨论段落的初稿处理。
 
-![AI 翻译](https://github.com/King-GXM/ResearchTools-Windows/releases/download/v1.0.5/ai-translation.png)
+![AI 翻译](https://github.com/user-attachments/assets/8c5a8736-dafa-42b4-8e68-4d065f8ae888)
 
 ## 下载与安装
 
