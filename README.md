@@ -2,7 +2,7 @@
 
 面向科研写作、论文绘图和实验结果整理的 Windows 桌面工具。
 
-本仓库用于发布 **ResearchTools Windows 安装器、功能截图和使用说明**。当前仓库不公开软件源码；如需安装使用，请前往 GitHub Releases 下载最新版安装包。
+本仓库用于发布 **ResearchTools Windows 安装器、功能截图和使用说明**。当前仓库不公开软件源码；如需安装使用，请前往 GitHub Releases (https://github.com/King-GXM/ResearchTools-Windows/releases) 或官网 (https://researchtoolsapp.com/#download) 下载最新版安装包。
 
 ## 主要功能
 
