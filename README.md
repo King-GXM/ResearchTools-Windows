@@ -64,4 +64,5 @@ SHA256: 923528CF1A094F63D991C87BCFCCB7C9BA39E756BA40CEDD2A9B976BF1725383
 ## English Summary
 
 ResearchTools 是一款面向研究人员的科研工具软件。它提供 LaTeX 公式 OCR、科学图表创建、论文插图绘制，以及 AI 辅助翻译 / 润色工作流。此仓库仅分发 Windows 安装程序和产品文档；源代码不在此发布
+
 ResearchTools is a Windows desktop toolkit for researchers. It provides LaTeX formula OCR, scientific chart creation, paper illustration drawing, and AI-assisted translation / polishing workflows. This repository distributes the Windows installer and product documentation only; source code is not published here.
